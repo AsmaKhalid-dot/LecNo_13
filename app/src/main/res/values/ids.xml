@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rollNoText" type="id">rollNoText</item>
+    <item name="nameText" type="id">nameText</item>
+    <item name="imageView3" type="id">imageView3</item>
+    <item name="stdName" type="id">stdName</item>
+    <item name="stdRollNo" type="id">stdRollNo</item>
+    <item name="ageText" type="id">ageText</item>
+    <item name="stdAge" type="id">stdAge</item>
+</resources>
